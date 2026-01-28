@@ -1,0 +1,26 @@
+{
+  "name": "bootcampfs-ejercico-crud-db-mongoose",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación sencilla en Node.js utilizando Express con mongoose y Atlas para crear una API de tareas, donde podras crear, ver tareas, actualizar y borrarlas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baquerodavid/bootcampFS-ejercico-CRUD-DB-mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/baquerodavid/bootcampFS-ejercico-CRUD-DB-mongoose/issues"
+  },
+  "homepage": "https://github.com/baquerodavid/bootcampFS-ejercico-CRUD-DB-mongoose#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5"
+  }
+}

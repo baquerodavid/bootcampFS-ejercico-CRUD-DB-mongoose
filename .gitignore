@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# Archivo de bloqueo de paquetes
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Dependencias de desarrollo
+.env
+.env.local
+.env.test
+.env.production
+
+# Archivos de construcción
+build/
+dist/
+out/
+
+# Archivos de configuración de editor
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
